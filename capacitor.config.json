@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "NAM2023",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
